@@ -1,0 +1,46 @@
+How did viewing a FC between two versions of a file help you see the bug that was introduced?
+
+    It highlighted every line where the two codes differed, from there it 
+    was simply a matter of finding a word that looked wrong
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    it will provide access to all iterations and allow seamless feedback 
+    on the differences between the former an present forms removing 
+    guesswork and leaving a trail to follow the steps backwards
+
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Manually requires remembering as well as actually executing the function, leaving it vulnerable to forgetfulness. However it also 
+    makes it deliberate and far more intentional as to what each iteration 
+    will look like and saves on memory.
+    It is the difference between driving automatic or stick.
+
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+	version control is designed to allow parallel comparison between old 
+	and new versions of the same. To note differences and highlight 
+	inefficiency. GoogleDocs is meant for word processing.
+
+How can you use the commands git log and git diff to view the history of files?
+
+	I'm not sure yet. But I imagine that they are commands that compare versions and present them in parellel.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    It's all backed up in the repository
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Machine learning and other courses!
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+	It is external memory, everything is saved there which means I can leave for a period, or make several changes and not forget what I have already done.
